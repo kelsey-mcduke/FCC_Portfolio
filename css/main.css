@@ -243,6 +243,10 @@ footer .content-wrapper {
         padding-right: 500px;
     }
 
+    #projects {
+        padding: 10px;
+    }
+
     #projects p {
         font-size: 1.5em;
     }
