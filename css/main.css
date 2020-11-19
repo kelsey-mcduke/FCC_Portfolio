@@ -51,6 +51,10 @@ h1 h2 h3 {
 }
 
 /*****PROJECTS*****/
+#projects {
+    padding: 10px;
+}
+
 #projects h2{
     margin: 5px;
     padding: 15px;
@@ -241,10 +245,6 @@ footer .content-wrapper {
         padding-top: 75px;
         padding-left: 0;
         padding-right: 500px;
-    }
-
-    #projects {
-        padding: 10px;
     }
 
     #projects p {
