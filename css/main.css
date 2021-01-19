@@ -86,6 +86,11 @@ h1 h2 h3 {
     color: #5DB35E;
 }
 
+.project-tile h3 a {
+    text-decoration: none;
+    color: #5DB35E;
+}
+
 .project-tile p {
     font-size: .875em;
     font-weight: 600;
